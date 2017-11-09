@@ -6,3 +6,4 @@ function iceCreamIsBetterThanBears(flavor) {
 }
 
 // test
+function anotherTest(){console.log("Test Worked!")}.
